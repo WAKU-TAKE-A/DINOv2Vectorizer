@@ -11,10 +11,10 @@
 
 ## ファイル構成
 
-- [dinov2_vectorizer.py](c:/UserData/nishida/Git/DINOv2VectorizerConfig/dinov2_vectorizer.py): ベクトル化と比較の本体
-- [compare_samples.py](c:/UserData/nishida/Git/DINOv2VectorizerConfig/compare_samples.py): `sample/ref.png` と `sample*.png` の比較スクリプト
-- [download_weights.py](c:/UserData/nishida/Git/DINOv2VectorizerConfig/download_weights.py): DINOv2 重みの事前ダウンロード
-- [setup_venv.bat](c:/UserData/nishida/Git/DINOv2VectorizerConfig/setup_venv.bat): Windows 用セットアップ
+- [dinov2_vectorizer.py](dinov2_vectorizer.py): ベクトル化と比較の本体
+- [compare_samples.py](compare_samples.py): `sample/ref.png` と `sample*.png` の比較スクリプト
+- [download_weights.py](download_weights.py): DINOv2 重みの事前ダウンロード
+- [setup_venv.bat](setup_venv.bat): Windows 用セットアップ
 
 ## セットアップ
 
